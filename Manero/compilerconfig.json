@@ -6,5 +6,9 @@
   {
     "outputFile": "ClientApp/src/css/scss/Style.css",
     "inputFile": "ClientApp/src/css/scss/Style.scss"
+  },
+  {
+    "outputFile": "ClientApp/src/Style.css",
+    "inputFile": "ClientApp/src/Style.scss"
   }
 ]
